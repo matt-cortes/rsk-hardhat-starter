@@ -3,7 +3,9 @@
 /.rsk-testnet-block-rpc-response.json
 /.rsk-testnet-seed-phrase
 /flattened.sol
+/flatten.sol
 /cache
 /artifacts
 /coverage.json
 /coverage/*
+notes.txt
